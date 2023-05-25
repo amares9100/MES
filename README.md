@@ -18,7 +18,8 @@ One-way(원자재 재고관리, 제품 재고관리, 제품 생산관리, 제품
 ![image](https://github.com/amares9100/MES/assets/120459763/52f0c641-5d9b-47a5-a69a-ed38a7e95ec3)
 
 #### 4.개발 전체 일정
-![mes_project4_2023-05-01_05 57pm](https://user-images.githubusercontent.com/121651318/235431953-36441320-0793-464f-ba8a-74a5d2db3a18.png)
+![image](https://github.com/amares9100/MES/assets/120459763/875c51c0-2491-49b6-9266-227ed6bc7a66)
+
 
 
 #### 5. 사용한 스킬 및 외부라이브러리
@@ -26,11 +27,9 @@ Spring&React Project: HTML5, JS, Java, MySQL(RDS), AXIOS, RESTful API(JSON), mui
 
 
 #### 6. mySQL ER diagram
-초안 : 
-
-![image](https://github.com/Ga0Kwon/MES/assets/121651318/63a678b5-6752-4e10-8dac-864bc73bd8b5)
+![image](https://github.com/amares9100/MES/assets/120459763/206e90bb-1073-482c-b931-2a3f93f34568)
 #### 7. MVC Structure
-![image](https://user-images.githubusercontent.com/121651318/235430808-ee0fe050-e817-4528-92c6-9a13c909ba62.png)
+![image](https://github.com/amares9100/MES/assets/120459763/e7aedfdf-439e-4109-8a56-3f1649e5b021)
 
 
 #### 8. Front-End Structure [ layout ]
