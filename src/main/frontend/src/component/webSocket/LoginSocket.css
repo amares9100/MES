@@ -1,0 +1,10 @@
+/* 스크롤바 안보이게 */
+.socketWrap {
+  overflow: auto;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+.socketWrap::-webkit-scrollbar {
+  display: none;
+}

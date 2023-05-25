@@ -1,0 +1,22 @@
+.content {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  flex: 0 0 auto;
+  width: 200px;
+  background-color: #ccc;
+}
+
+.main-content {
+  flex: 1 1 auto;
+  padding: 16px;
+}
+
+.header {
+    height : 150px;
+    background-color: #87AFED;
+}
+
+
