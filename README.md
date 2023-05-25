@@ -29,37 +29,16 @@ Spring&React Project: HTML5, JS, Java, MySQL(RDS), AXIOS, RESTful API(JSON), mui
 #### 6. mySQL ER diagram
 ![image](https://github.com/amares9100/MES/assets/120459763/206e90bb-1073-482c-b931-2a3f93f34568)
 #### 7. MVC Structure
-![image](https://github.com/amares9100/MES/assets/120459763/0ac0d416-63ab-4291-b506-62d2507e91f2)
-
-
-#### 8. Front-End Structure [ layout ]
 ![image](https://user-images.githubusercontent.com/121651318/235610902-cd9e5f31-9964-4c37-9829-cba06a628f6f.png)
 
-#### 9. 페이지명
+#### 8. 페이지명
 MES 
 
-#### 10. 페이지 로고
+#### 9. 페이지 로고
 ![MES Logo](https://user-images.githubusercontent.com/121651318/235453331-cf5d71b8-9d41-4f55-b681-b11d002c8539.png)
 
 
-
-#### 11. 테마 색상
-![MES 색상 추천](https://user-images.githubusercontent.com/121651318/235451419-fc3c596b-6b4b-48a5-bbc3-bdc60a9677d2.jpg)
-
-
-#### 12. 메인 폰트
-@font-face {
-    font-family: 'SUITE-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-Regular.woff2') format('woff2');
-    font-weight: 400;
-    font-style: normal;
-}
-
-![image](https://user-images.githubusercontent.com/121651318/235451547-2b5db1de-747f-4244-bac9-6b37dc51ebcf.png)
-
-: 7가지 굵기 지원하고 깔끔한 느낌이어서 일단 추천
-
-#### 13. PT자료
+#### 10. PT자료
 
 계획서 초안 : [4조 프로젝트 계획서.pptx](https://github.com/Ga0Kwon/MES/files/11364476/4.pptx)
 
