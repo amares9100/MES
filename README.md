@@ -29,7 +29,7 @@ Spring&React Project: HTML5, JS, Java, MySQL(RDS), AXIOS, RESTful API(JSON), mui
 #### 6. mySQL ER diagram
 ![image](https://github.com/amares9100/MES/assets/120459763/206e90bb-1073-482c-b931-2a3f93f34568)
 #### 7. MVC Structure
-![image](https://github.com/amares9100/MES/assets/120459763/e7aedfdf-439e-4109-8a56-3f1649e5b021)
+![image](https://github.com/amares9100/MES/assets/120459763/0ac0d416-63ab-4291-b506-62d2507e91f2)
 
 
 #### 8. Front-End Structure [ layout ]
