@@ -15,7 +15,7 @@ One-way(원자재 재고관리, 제품 재고관리, 제품 생산관리, 제품
 4) AWS(RDS)를 통해 DB 협업을 이해하며 공부하기 위해서
 
 #### 3. 팀원: 권가영, 김태호, 이정준, 최성아
-![image](https://user-images.githubusercontent.com/121651318/235430629-9468d97a-6d86-4663-a29e-9cbfd7a083b1.png)
+![image](https://github.com/amares9100/MES/assets/120459763/52f0c641-5d9b-47a5-a69a-ed38a7e95ec3)
 
 #### 4.개발 전체 일정
 ![mes_project4_2023-05-01_05 57pm](https://user-images.githubusercontent.com/121651318/235431953-36441320-0793-464f-ba8a-74a5d2db3a18.png)
