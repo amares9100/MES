@@ -6,7 +6,7 @@ MES(project4)
 
 
 #### 0. 시현 영상 
-
+https://www.youtube.com/watch?v=HtMemg1fcIM
 
 #### 1. 주제
 One-way(원자재 재고관리, 제품 재고관리, 제품 생산관리, 제품 매출관리 통합) 생산관리 시스템을 구현하여, 제조 스타트업 및 SAP 미사용 업체에 업무 편의성을 제공하는 웹 사이트입니다.
