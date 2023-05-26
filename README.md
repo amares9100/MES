@@ -1,6 +1,10 @@
 # MES
 MES(project4)
 
+####  PPT
+[4조 생산.pptx](https://github.com/amares9100/MES/files/11570760/4.pptx)
+
+
 #### 0. 시현 영상 
 
 
@@ -32,15 +36,12 @@ Spring&React Project: HTML5, JS, Java, MySQL(RDS), AXIOS, RESTful API(JSON), mui
 #### 7. MVC Structure
 ![image](https://github.com/amares9100/MES/assets/120459763/7266a243-e8e2-4e85-8642-bebb64751053)
 
-#### 8. JIRA
-![image](https://github.com/amares9100/MES/assets/120459763/b20ec511-78db-4906-a25c-df4c1f8f1166)
 
-#### 9. 페이지 로고
+#### 8. 페이지 로고
 ![MES Logo](https://user-images.githubusercontent.com/121651318/235453331-cf5d71b8-9d41-4f55-b681-b11d002c8539.png)
 
 
-#### 10. PT자료
+#### 9. 자료
 
 계획서 초안 : [4조 프로젝트 계획서.pptx](https://github.com/Ga0Kwon/MES/files/11364476/4.pptx)
 
-발표 PPT : https://www.canva.com/design/DAFjPlYJz-A/JSbcTQ4TtovY8SIZgzsVbQ/view?utm_content=DAFjPlYJz-A&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
