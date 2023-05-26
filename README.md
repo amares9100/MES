@@ -32,8 +32,8 @@ Spring&React Project: HTML5, JS, Java, MySQL(RDS), AXIOS, RESTful API(JSON), mui
 #### 7. MVC Structure
 ![image](https://github.com/amares9100/MES/assets/120459763/7266a243-e8e2-4e85-8642-bebb64751053)
 
-#### 8. 페이지명
-MES 
+#### 8. JIRA
+![image](https://github.com/amares9100/MES/assets/120459763/b20ec511-78db-4906-a25c-df4c1f8f1166)
 
 #### 9. 페이지 로고
 ![MES Logo](https://user-images.githubusercontent.com/121651318/235453331-cf5d71b8-9d41-4f55-b681-b11d002c8539.png)
